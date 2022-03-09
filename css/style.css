@@ -7,6 +7,7 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
+  overflow-x: hidden;
 }
 h2,
 h3,
@@ -221,7 +222,7 @@ a:focus,
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 82px;
+  font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
@@ -312,9 +313,6 @@ header .intro-text {
   padding: 100px 0;
   background: linear-gradient(to right, #FF6B4A 0%, #FFAB4A 100%);
   color: #fff;
-}
-#services .service-desc {
-  margin-right: 50px;
 }
 #services h2 {
   color: #fff;

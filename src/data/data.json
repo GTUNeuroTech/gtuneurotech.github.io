@@ -1,0 +1,136 @@
+{
+  "Header": {
+    "title": "NeuroTech",
+    "paragraph": "NeuroTech provides fNIRS solutions to measure brain activity."
+  },
+  "About": {
+    "paragraph": "NeuroTech is developing and deploying a wearable sensor to measure brain activity.  We use infrared light to non-invasively measure changing oxygen concentration in the user’s brain, and relate this to changes in the user’s condition."
+  },
+  "Gallery": [],
+  "Services": [
+    {
+      "name": "Sleep Efficiency Analysis",
+      "text": "View analysis of your sleep efficiency with a graphic interface."
+    },
+    {
+      "name": "Identify Sleep Stages",
+      "text": "Identify the different sleep stages including the time you fall asleep, wake up, and enter or exit deep/light sleep."
+    },
+    {
+      "name": "View Sleep Data",
+      "text": "View your daily, weekly, monthly, and yearly sleep data."
+    },
+    {
+      "name": "",
+      "text": ""
+    },
+    {
+      "name": "Instant Data",
+      "text": "Measure your instant oxyhemoglobin level and compare it with scientific data."
+    },
+    {
+      "name": "Compare Your Data",
+      "text": "Compare your sleep data with a scientific basis."
+    },
+    {
+      "name": "Set Goal",
+      "text": "Set a sleep time or efficiency goal daily or weekly and track them."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Sena Ulukaya",
+      "job": ""
+    },
+    {
+      "img": "img/team/02.jpeg",
+      "name": "Mustafa Karakaş",
+      "job": ""
+    },
+    {
+      "img": "img/team/03.jpeg",
+      "name": "Şevval Ateş",
+      "job": ""
+    },
+    {
+      "img": "img/team/04.jpeg",
+      "name": "Sefa Çiçek",
+      "job": ""
+    },
+    {
+      "img": "img/team/05.jpeg",
+      "name": "İbrahim Hilmi Akargül",
+      "job": ""
+    },
+    {
+      "img": "img/team/06.jpeg",
+      "name": "Fatih Doğaç",
+      "job": ""
+    },
+    {
+      "img": "img/team/07.jpeg",
+      "name": "Okan Torun",
+      "job": ""
+    },
+    {
+      "img": "img/team/08.jpeg",
+      "name": "Sinan Sarı",
+      "job": ""
+    },
+    {
+      "img": "img/team/09.jpeg",
+      "name": "Hatice Sevra Genç",
+      "job": ""
+    },
+    {
+      "img": "img/team/11.jpeg",
+      "name": "Atakan Altın",
+      "job": ""
+    },
+    {
+      "img": "img/team/10.jpeg",
+      "name": "Oğuz Mutlu",
+      "job": ""
+    },
+    {
+      "img": "img/team/placeholder.jpeg",
+      "name": "Ayşe Değirmenci",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Gebze Teknik Üniversitesi, Bilgisayar Mühendisliği, 41400 Gebze/Kocaeli",
+    "phone": "+1 123 456 1234",
+    "email": "neurotechgtu@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}

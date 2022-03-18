@@ -4,9 +4,11 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>SleepNIR</h2>
+          <h2>MOODIE</h2>
           <p>
-            SleepNIR is designed to calculate sleep indices such as total sleep time and sleep efficiency. It is an easy-to-use wearable sleep tracker with a mobile application.
+            Moodie measures users' emotional changes during movies and TV
+            series and reports these changes to the user statistically by using the functional
+            near-infrared spectroscopy (fNIRS) technique.
           </p>
         </div>
         <div className='row'>

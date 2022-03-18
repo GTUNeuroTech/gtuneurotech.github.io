@@ -9,33 +9,33 @@
   "Gallery": [],
   "Services": [
     {
-      "name": "Sleep Efficiency Analysis",
-      "text": "View analysis of your sleep efficiency with a graphic interface."
+      "name": "8 Different Emotion",
+      "text": "Moodie determines eight distinct emotions and inform you about their mood changes during a movie or TV series."
     },
     {
-      "name": "Identify Sleep Stages",
-      "text": "Identify the different sleep stages including the time you fall asleep, wake up, and enter or exit deep/light sleep."
+      "name": "Your Own Database",
+      "text": "You will have your own database of movies and series and you can display their rankings."
+    },
+
+    {
+      "name": "Rank",
+      "text": "Your movies and series will be ranked accoring to how they feel to you! You can display your movies emotion ranking."
+    },
+ 
+    {
+      "name": "List",
+      "text": "You can list and display your movies and series according to their emotion category."
+    },
+   
+    {
+      "name": "Compare",
+      "text": "You can compare what you've been previously watched based on how they feel to you, or you can compare the ones you haven't watched yet from our database."
     },
     {
-      "name": "View Sleep Data",
-      "text": "View your daily, weekly, monthly, and yearly sleep data."
-    },
-    {
-      "name": "",
-      "text": ""
-    },
-    {
-      "name": "Instant Data",
-      "text": "Measure your instant oxyhemoglobin level and compare it with scientific data."
-    },
-    {
-      "name": "Compare Your Data",
-      "text": "Compare your sleep data with a scientific basis."
-    },
-    {
-      "name": "Set Goal",
-      "text": "Set a sleep time or efficiency goal daily or weekly and track them."
+      "name": "Find Similar Content",
+      "text": "You can display new movies/series based on your previosly preferences."
     }
+
   ],
   "Testimonials": [
     {
